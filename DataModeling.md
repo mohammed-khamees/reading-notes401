@@ -54,3 +54,10 @@ Why REST?
 
 - _Data Model_
   Data model is a diagram that illustrates relationships and behaviors of different pieces of an application and how those pieces depend on one another
+
+
+### resources
+[TDD](https://www.guru99.com/test-driven-development.html)
+[OOP](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+[CI](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
+[Data Model](https://www.guru99.com/data-modelling-conceptual-logical.html)
