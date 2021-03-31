@@ -19,3 +19,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | Express                    | [link](https://mohammed-khamees.github.io/reading-notes401/Express)                   |
 | Express REST API           | [link](https://mohammed-khamees.github.io/reading-notes401/REST)                      |
 | Data Modeling              | [link](https://mohammed-khamees.github.io/reading-notes401/DataModeling)              |
+| Linked Lists               | [link](https://mohammed-khamees.github.io/reading-notes401/LinkedLists)               |
