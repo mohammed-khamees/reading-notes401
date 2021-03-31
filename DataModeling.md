@@ -55,8 +55,29 @@ Why REST?
 - _Data Model_
   Data model is a diagram that illustrates relationships and behaviors of different pieces of an application and how those pieces depend on one another
 
+#### SQL databases:
+
+**SQL** databases use structured query language (**SQL**) for defining and manipulating data. On one hand, this is extremely powerful: **SQL** is one of the most versatile and widely-used options available, making it a safe choice and especially great for complex queries. On the other hand, it can be restrictive. **SQL** requires that you use predefined schemas to determine the structure of your data before you work with it. In addition, all of your data must follow the same structure. This can require significant up-front preparation, and, as with Town A, it can mean that a change in the structure would be both difficult and disruptive to your whole system.
+
+#### NoSQL databases:
+
+**NoSQL** databases, on the other hand, have dynamic schemas for unstructured data, and data is stored in many ways: They can be column-oriented, document-oriented, graph-based or organized as a KeyValue store. This flexibility means that:
+
+- You can create documents without having to first define their structure
+- Each document can have its own unique structure
+- The syntax can vary from database to database, and
+- You can add fields as you go.
+
+**he five critical differences of SQL vs NoSQL:**
+
+1. **SQL** databases are relational, **NoSQL** are non-relational.
+2. **SQL** databases use structured query language and have a predefined schema. **NoSQL** databases have dynamic schemas for unstructured data.
+3. **SQL** databases are vertically scalable, **NoSQL** databases are horizontally scalable.
+4. **SQL** databases are table based, while **NoSQL** databases are document, key-value, graph or wide-column stores.
+5. **SQL** databases are better for multi-row transactions, **NoSQL** are better for unstructured data like documents or JSON.
 
 ### resources
+
 [TDD](https://www.guru99.com/test-driven-development.html)
 [OOP](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 [CI](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
