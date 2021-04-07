@@ -25,3 +25,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | Access Control (ACL)       | [link](https://mohammed-khamees.github.io/reading-notes401/ACL)                       |
 | OAuth                      | [link](https://mohammed-khamees.github.io/reading-notes401/OAuth)                     |
 | Stacks and Queues          | [link](https://mohammed-khamees.github.io/reading-notes401/StacksandQueues)           |
+| Event Driven Applications  | [link](https://mohammed-khamees.github.io/reading-notes401/EventDrivenApplications)   |
