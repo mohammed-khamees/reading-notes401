@@ -56,3 +56,7 @@ eventEmitter.emit('eventName');
 ```
 
 ![event-driven application](https://www.tutorialspoint.com/nodejs/images/event_loop.jpg)
+
+**more resources:**
+[Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
+[Node docs: events](https://nodejs.org/api/events.html)
