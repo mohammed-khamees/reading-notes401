@@ -29,3 +29,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | Socket.io                  | [link](https://mohammed-khamees.github.io/reading-notes401/Socket)                    |
 | Message Queues             | [link](https://mohammed-khamees.github.io/reading-notes401/MessageQueues)             |
 | Trees                      | [link](https://mohammed-khamees.github.io/reading-notes401/Trees)                     |
+| AWS: Cloud Servers         | [link](https://mohammed-khamees.github.io/reading-notes401/AWS)                       |
