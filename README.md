@@ -39,3 +39,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | Routing                     | [link](https://mohammed-khamees.github.io/reading-notes401/Routing)                   |
 | Hash Tables                 | [link](https://mohammed-khamees.github.io/reading-notes401/Hash)                      |
 | Hooks API                   | [link](https://mohammed-khamees.github.io/reading-notes401/Hooks)                     |
+| Custom Hooks                | [link](https://mohammed-khamees.github.io/reading-notes401/CustomHooks)               |

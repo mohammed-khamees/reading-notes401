@@ -61,4 +61,4 @@ With React Hooks, developers get the power to use functional components for almo
 
 - Don’t call Hooks from regular JavaScript functions. Instead, you can:
   1. Call Hooks from React function components.
-  2. Call Hooks from custom Hooks (we’ll learn about them on the next page).
+  2. Call Hooks from custom Hooks.
