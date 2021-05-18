@@ -41,3 +41,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | Hooks API                   | [link](https://mohammed-khamees.github.io/reading-notes401/Hooks)                     |
 | Custom Hooks                | [link](https://mohammed-khamees.github.io/reading-notes401/CustomHooks)               |
 | Context API                 | [link](https://mohammed-khamees.github.io/reading-notes401/ContextAPI)                |
+| `<Login />` and `<Auth />`  | [link](https://mohammed-khamees.github.io/reading-notes401/loginAuth)                 |
