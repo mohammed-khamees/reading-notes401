@@ -44,3 +44,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | `<Login />` and `<Auth />`   | [link](https://mohammed-khamees.github.io/reading-notes401/loginAuth)                 |
 | Graphs                       | [link](https://mohammed-khamees.github.io/reading-notes401/Graphs)                    |
 | Application State with Redux | [link](https://mohammed-khamees.github.io/reading-notes401/Redux)                     |
+| Redux - Combined Reducers    | [link](https://mohammed-khamees.github.io/reading-notes401/CombinedReducers)          |
