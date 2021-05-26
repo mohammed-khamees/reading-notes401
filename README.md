@@ -45,3 +45,5 @@ you will learn some of code block **syntax** and **when to use it**.
 | Graphs                       | [link](https://mohammed-khamees.github.io/reading-notes401/Graphs)                    |
 | Application State with Redux | [link](https://mohammed-khamees.github.io/reading-notes401/Redux)                     |
 | Redux - Combined Reducers    | [link](https://mohammed-khamees.github.io/reading-notes401/CombinedReducers)          |
+| Redux - Asynchronous Actions | [link](https://mohammed-khamees.github.io/reading-notes401/AsynchronousActions)       |
+| Redux - Additional Topics    | [link](https://mohammed-khamees.github.io/reading-notes401/AdditionalTopics)          |
